@@ -16,16 +16,7 @@ namespace ConsoleApplication3
             var result = op1 & op2;
             Console.WriteLine(result.GetType().Name);
             Console.ReadKey();
-            argsa
-                a
-                a
-                a
-                a
-                a
-                a
-
-                a
-                a
+           /*            Prod test commit                                         */
         }
     }
 }
