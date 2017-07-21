@@ -16,7 +16,7 @@ namespace ConsoleApplication3
             var result = op1 & op2;
             Console.WriteLine(result.GetType().Name);
             Console.ReadKey();
-           /*              MAster Commit                 */
+
         }
     }
 }
